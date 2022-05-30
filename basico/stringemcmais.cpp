@@ -17,7 +17,7 @@ int main (int argc, char ** argv){
        cin >> palavra2;
     cout<< "A palavra digitada foi: " << palavra2 << endl;
 
-    palavra2 = "Angelica";
+    palavra2 = "Teste";
 
     cout<< "A palavra mudou para: " << palavra2 << endl;
 
